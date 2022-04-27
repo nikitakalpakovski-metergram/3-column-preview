@@ -1,9 +1,9 @@
 import styles from "./app.module.css";
 
-import { Card } from "./components/card/card";
-import luxury from "./assets/images/icon-luxury.svg";
-import sedans from "./assets/images/icon-sedans.svg";
-import suvs from "./assets/images/icon-suvs.svg";
+import { Card } from "../card/card";
+import luxury from "../../assets/images/icon-luxury.svg";
+import sedans from "../../assets/images/icon-sedans.svg";
+import suvs from "../../assets/images/icon-suvs.svg";
 
 const data = [
   {
