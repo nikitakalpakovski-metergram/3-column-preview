@@ -1,0 +1,19 @@
+.wrapper {
+    color: white;
+    padding: 48px;
+    border-radius: 8px;
+    margin: 0 -8px;
+    min-width: 300px;
+    max-width: 300px;
+}
+
+.title {
+    font-family: 'Big Shoulders Display', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.description {
+    margin-bottom: 84px;
+}

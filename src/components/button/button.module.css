@@ -1,0 +1,14 @@
+.buttonBase {
+    padding: 12px 30px;
+    font-family: 'Lexend Deca', sans-serif;
+    border-radius: 25px;
+    border: 2px solid white;
+    background-color: white;
+    color: #333;
+}
+
+.buttonBase:hover {
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+}
